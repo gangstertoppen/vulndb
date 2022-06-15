@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/dutchcoders/vulndb/cli"
+	"github.com/dutchcoders/vulndb/tree/master/cli"
 	"github.com/spf13/cobra"
 )
 
